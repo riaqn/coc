@@ -1,0 +1,5 @@
+An interpreter for [[https://en.wikipedia.org/wiki/Calculus_of_constructions][Calculus of Construction]].
+* some TODO 
+  - use variable names instead of de-bruijn indices.
+  - add syntax sugar for arrow
+  - better error info
